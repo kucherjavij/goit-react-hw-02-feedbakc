@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/my-app/static/js/main.89d42f83.js",
-    "index.html": "/my-app/index.html",
-    "main.89d42f83.js.map": "/my-app/static/js/main.89d42f83.js.map"
+    "main.js": "/goit-react-hw-02-feedbakc/static/js/main.89d42f83.js",
+    "index.html": "/goit-react-hw-02-feedbakc/index.html",
+    "main.89d42f83.js.map": "/goit-react-hw-02-feedbakc/static/js/main.89d42f83.js.map"
   },
   "entrypoints": [
     "static/js/main.89d42f83.js"
